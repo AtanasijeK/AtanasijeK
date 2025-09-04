@@ -17,7 +17,7 @@ E-commerce solutions, dashboards, and portfolios
 
 🌱 Currently improving skills in advanced React patterns & cloud deployment (AWS, Vercel).
 
-📬 Let’s connect:
+📬 Let’s connect: https://www.linkedin.com/in/atanasije-karadzic/
 
 <!--
 **AtanasijeK/AtanasijeK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
