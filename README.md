@@ -1,4 +1,4 @@
-💻 Frontend Developer | React • Next.js • TypeScript
+Hi I am Frontend Developer | React • Next.js • TypeScript
 Building responsive and scalable web applications with a focus on performance, clean code, and user experience.
 
 🚀 Experienced in:
